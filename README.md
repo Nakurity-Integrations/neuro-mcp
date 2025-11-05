@@ -1,4 +1,15 @@
-# NeuroMCP
+# Neuro MCP
+*(nakurity integration version)*
+This is a fork of the original neuro mcp integration by [Patrick Echo Hello World](https://github.com/ECHO-HELLO-WORLD424/NeuroMCP), this fork should implement
+the neuro integration for [Neuro Desktop](https://github.com/Nakashireyumi/neuro-desktop/). Which is an windows integration project for neuro and evilyn!
+
+This fork implements the following to the original integration:
+- Addition of the nakurity workflow application stack (pending)
+- Addition of an neuro desktoo loadabe DLL, that allows neuro desktop to recongize and connect to this integration (pending)
+- Addition of an authentication system via neuro desktop (pending)
+
+To note, these changes are not implemented yet, and are noted as pending. As this is a planned item in the roadmap for NeuronDesktop, but the required handling
+for neuro desktop plugins, and UIs have not been implemented yet.
 
 <div align="center">
   <img src="./assets/NeuroMCPIcon.png" alt="Logo" width="256" height="256">
